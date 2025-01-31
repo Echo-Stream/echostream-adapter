@@ -1,1 +1,1 @@
-echostream-node==0.4.5
+echostream-node==0.4.6
